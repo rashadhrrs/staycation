@@ -54,13 +54,30 @@
     }
 }
 
+// .buttonType {
+//     font-size: 14px;
+//     font-style: italic;
+//     font-weight: bold;
+//     border-radius: 2px;
+//     border-top-color: red;
+//     border-bottom-color: green;
+//     border-left-color: blue;
+//     border-left-color: yellow;
+//     background-color: gray;
+//     &:hover {
+//         background-color: brown;
+//     }
+// }
+
 header {
     border-bottom: 1px solid $gray-200;
     width: 100%;
     position: relative;
+    margin-bottom: 50px;
 
     .navbar {
         height: 80px;
+        color: $gray-500;
 
         ul.navbar-nav {
             li.nav-item {

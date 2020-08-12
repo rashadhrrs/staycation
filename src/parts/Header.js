@@ -11,13 +11,19 @@ export default function Header(props) {
     return (
         <header>
             <div className="container">
+            <i className="fa fa-lg fa-search"></i>
                 <nav className="navbar navbar-expand-lg navbar-light">
                     <BrandIcon/>
                 <div className="collapse navbar-collapse">
+                    
+                    <i className="fa fa-search"></i>
+                    
                     <ul className="navbar-nav ml-auto">
+                    <i className="fa fa-lg fa-search"></i>
                         <li className={`nav-item${getNavLinkClass("/")}`}>
+                        <i className="fa fa-lg fa-search"></i>
                             <Button className="nav-link" type="link" href="/">
-                                Home
+                                Homes
                             </Button>
                         </li>
                         <li className={`nav-item${getNavLinkClass("/browse-by")}`}>
