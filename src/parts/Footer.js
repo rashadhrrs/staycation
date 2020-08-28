@@ -5,7 +5,7 @@ import Button from "elements/Button";
 export default function Footer() {
   return (
     <footer>
-      <div className="container">
+      <div className="container"> 
         <div className="row">
           <div className="col-auto" style={{width: 350}}>
             <IconText />
