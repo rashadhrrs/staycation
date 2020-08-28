@@ -1,4 +1,6 @@
 import React from 'react'
+import Fade from 'react-reveal/Fade';
+
 import Button from 'elements/Button'
 import BrandIcon from 'parts/IconText'
 
@@ -9,6 +11,7 @@ export default function Header(props) {
     }
 
     return (
+        <Fade>
         <header>
             <div className="container">
             <i className="fa fa-lg fa-search"></i>
@@ -46,5 +49,6 @@ export default function Header(props) {
                 </nav>
             </div>
         </header>
+        </Fade>
     )
 }
