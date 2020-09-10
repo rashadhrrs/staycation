@@ -7,11 +7,11 @@
   "mostPicked": [
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "The People House",
       "type": "Apartment",
       "imageUrl": "/images/img-mostpicked-1.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "Indonesia",
+      "city": "Bandung, ",
       "price": "80",
       "unit": "night"
     },
@@ -21,37 +21,37 @@
       "type": "Hotel",
       "imageUrl": "/images/img-mostpicked-2.jpg",
       "country": "Indonesia",
-      "city": "Bogor",
+      "city": "Bali, ",
       "price": "52",
       "unit": "night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "House Tour",
+      "name": "The People House",
       "type": "Rumah",
       "imageUrl": "/images/img-mostpicked-3.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "Indonesia",
+      "city": "Jakarta, ",
       "price": "80",
       "unit": "night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "The People House",
       "type": "Apartment",
       "imageUrl": "/images/img-mostpicked-4.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "Greece",
+      "city": "Santorini, ",
       "price": "80",
       "unit": "night"
     },
     {
       "_id": "asd1293uasdads1",
-      "name": "Jung Hook Sie",
+      "name": "The People House",
       "type": "Apartment",
       "imageUrl": "/images/img-mostpicked-5.jpg",
-      "country": "South Korea",
-      "city": "Seoul Flore",
+      "country": "Indonesia",
+      "city": "Labuan Bajo, ",
       "price": "80",
       "unit": "night"
     }
@@ -63,7 +63,7 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "The People House",
           "imageUrl": "/images/img-category-1.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -71,7 +71,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "The People Houseo",
           "imageUrl": "/images/img-category-2.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -79,7 +79,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "The People House",
           "imageUrl": "/images/img-category-3.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -87,7 +87,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "The People House",
           "imageUrl": "/images/img-category-4.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -101,7 +101,7 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "The People House",
           "imageUrl": "/images/img-category-5.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -109,7 +109,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "The People House",
           "imageUrl": "/images/img-category-6.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -117,7 +117,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "The People House",
           "imageUrl": "/images/img-category-7.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -125,7 +125,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "The People House",
           "imageUrl": "/images/img-category-8.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -139,7 +139,7 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "The People House",
           "imageUrl": "/images/img-category-9.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -147,7 +147,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "The People House",
           "imageUrl": "/images/img-category-10.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -155,7 +155,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "The People House",
           "imageUrl": "/images/img-category-11.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -163,7 +163,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Grand Dhika",
+          "name": "The People House",
           "imageUrl": "/images/img-category-12.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -175,7 +175,7 @@
   "testimonial": {
     "_id": "asd1293uasdads1",
     "imageUrl": "/images/testimonial-landingpages.jpg",
-    "name": "Happy Family",
+    "name": "Rashad Harris",
     "rate": 4.55,
     "content": "What a great trip with my partner and I should try again next time soon",
     "familyName": "Rashad Harris",

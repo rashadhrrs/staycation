@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="col-auto" style={{width: 350}}>
             <IconText />
             <p className="brand-tagLine">
-              We kaboom your beauty holiday instantly and memorable.
+              This site use dummy data and still developing. Dont make any transaction!
             </p>
           </div>
           <div className="col-auto mr-5">
@@ -58,16 +58,16 @@ export default function Footer() {
               <ul className="list-group list-group-flush">
                   <li className="list-group-item">
                       <Button isExternal type="link" href="mailto:support@staycation.id">
-                      support@staycation.id
+                      rashadhrrs@gmail.com
                       </Button>
                   </li>
                   <li className="list-group-item">
                       <Button isExternal type="link" href="tel:+62180881123">
-                      021-8088-1123
+                      0812-1188-5956
                       </Button>
                   </li>
                   <li className="list-group-item">
-                      <span>Staycation, Kemang, Jakarta</span>
+                      <span>Staycation, Tamansari, Bogor</span>
                   </li>
               </ul>
           </div>

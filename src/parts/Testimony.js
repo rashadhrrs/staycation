@@ -41,8 +41,9 @@ export default function Testimony({ data }) {
               style={{ marginTop: 40 }}
               hasShadow
               isPrimary
+              isExternal
               type="link"
-              href={`/testimonial/${data._id}`}
+              href="https://www.linkedin.com/in/rashadhrrs/"
             >
                 Read Their Story
             </Button>
