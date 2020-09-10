@@ -45,12 +45,12 @@ export default function Header(props) {
                             </Button>
                         </li>
                         <li className={`nav-item${getNavLinkClass("/github")}`}>
-                            <Button className="nav-link" type="link" isExternal href="https://github.com/rashadhrrs">
+                            <Button className="nav-link" type="link" target="_blank" isExternal href="https://github.com/rashadhrrs">
                                 Github
                             </Button>
                         </li>
                         <li className={`nav-item${getNavLinkClass("/linkedin")}`}>
-                            <Button className="nav-link" type="link" isExternal href="https://www.linkedin.com/in/rashadhrrs/">
+                            <Button className="nav-link" type="link" isExternal target="_blank" href="https://www.linkedin.com/in/rashadhrrs/">
                                 LinkedIn
                             </Button>
                         </li>

@@ -43,6 +43,7 @@ export default function Testimony({ data }) {
               isPrimary
               isExternal
               type="link"
+              target="_blank"
               href="https://www.linkedin.com/in/rashadhrrs/"
             >
                 Read Their Story

@@ -106,7 +106,7 @@
       "items": [
         {
           "_id": "asd1293uasdads1",
-          "name": "PSW Antasari",
+          "name": "The People House",
           "imageUrl": "/images/treasure-1.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -114,7 +114,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Kuretakeso",
+          "name": "The People House",
           "imageUrl": "/images/treasure-2.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -122,7 +122,7 @@
         },
         {
           "_id": "asd1293uasdads1",
-          "name": "Arya Duta",
+          "name": "The People House",
           "imageUrl": "/images/treasure-3.jpg",
           "country": "South Korea",
           "city": "Seoul Flore",
@@ -145,7 +145,7 @@
     "name": "Happy Family",
     "rate": 4.25,
     "content": "What a great trip with my family and I should try again and again next time soon...",
-    "familyName": "Angga",
-    "familyOccupation": "UI Designer"
+    "familyName": "Rashad Harris",
+    "familyOccupation": "Web Developer"
   }
 }
